@@ -16,6 +16,7 @@ This is a cloud-enabled, webapp 💻
 - Admin Login and Registration Authorization and Authentication service.
 - Data Stamping and Normalization Service by Data admin
 - Data View/Upload Service for Data users
+- Cloudformation and Scalable solution
 
 ## Technologies Use
 
@@ -26,6 +27,8 @@ This is a cloud-enabled, webapp 💻
 | AWS Lambda  | For Logics/Transformation |
 | AWS DynamoDb | For Data Storage |
 | AWS API GW | For Apis |
+| AWS Cloudformation | For web hosting |
+| AWS S3 | For Object Storage |
 | Axios | For Api Call |
 
 
