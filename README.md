@@ -1,6 +1,13 @@
 # Data Normalization and Stamping Dashboard
+
+## Architecture Diagram : 
+
 ![image info](appArch.png)
 
+
+## ERD Diagram :
+
+![image info](ERD.png)
 
 This is a cloud-enabled, webapp 💻
 
